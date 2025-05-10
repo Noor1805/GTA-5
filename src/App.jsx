@@ -245,7 +245,7 @@ function App() {
                 alt=""
               />
             </div>
-            <div className="btmbar w-full py-10 px-10 absolute bottom-[42.9rem] left-0 bg-gradient-to-t from-black to-transparent">
+            <div className="btmbar w-full py-10 px-10 absolute bottom-[40.9rem] left-0 bg-gradient-to-t from-black to-transparent">
               <div
                 className="scroll text-white  flex items-center
               gap-4"
